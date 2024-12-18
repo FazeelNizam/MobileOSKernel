@@ -114,7 +114,3 @@ Feel free to open issues or submit pull requests if you have any suggestions or 
 
 - Based on examples from:
   > "Operating System Concepts" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
-  > How to create child process using fork() || Duplicate Process video by DexTutor
-  ```sh
-  https://www.youtube.com/watch?v=VdCkrykPy_k&t=2s
-  ```
